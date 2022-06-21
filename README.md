@@ -1,6 +1,14 @@
 #
-![Screenshot (100)](https://user-images.githubusercontent.com/97940277/158116863-5c7d424f-c085-4547-bf73-faf7795b760c.png)<br>
-![Screenshot (101)](https://user-images.githubusercontent.com/97940277/158116898-3fd6a738-ee92-4c41-a90b-2d31ef540110.png)<br>
-![Screenshot (102)](https://user-images.githubusercontent.com/97940277/158116944-ac89f56a-32b8-4b04-8c52-5e6c9927eebf.png)<br>
+1.https://wokwi.com/projects/333716279904961106
+2.https://wokwi.com/projects/333800819556090452
+3.https://wokwi.com/projects/333714396554461779
+4.(servo motor) https://wokwi.com/projects/334977723662336596
+https://wokwi.com/projects/334977723662336596
 
+ardino with button
+https://wokwi.com/projects/335069442912289362
+ultrasonic sensor
+https://wokwi.com/projects/335070133368128083
+ultrasonic sensor with buzzer
+https://wokwi.com/projects/335070133368128083
 
