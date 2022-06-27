@@ -11,4 +11,5 @@ ultrasonic sensor
 https://wokwi.com/projects/335070133368128083
 ultrasonic sensor with buzzer
 https://wokwi.com/projects/335070133368128083
-
+two ultrasonic sennsor with led
+https://wokwi.com/projects/335615459073196626
