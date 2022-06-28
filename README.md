@@ -13,3 +13,4 @@ ultrasonic sensor with buzzer
 https://wokwi.com/projects/335070133368128083
 two ultrasonic sennsor with led
 https://wokwi.com/projects/335615459073196626
+DOOR SENSOR (NOT REQUIRED TIS CODE)https://wokwi.com/projects/335700081707582034
