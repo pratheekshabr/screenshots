@@ -45,5 +45,16 @@ esp32
 https://wokwi.com/projects/341407225198150228 -3LED
 https://wokwi.com/projects/341407482337296980 -RGB
 
-sevseg
+1. Seven segment LED display example: Counter Reference: 
 https://wokwi.com/projects/new/arduino-uno
+2. Analog Joystick with two axes (horizontal/vertical) and an integrated push button. Etch-a-sketch - A simple drawing game using a MAX7219 LED Dot Matrix 
+https://wokwi.com/projects/new/arduino-uno
+3. DHT22 on the ESP32
+https://wokwi.com/projects/342587595343004244
+4. Display distance on LCD screen with buzzer and LED 
+ Reference 1: https://wokwi.com/projects/342589361899962963
+ Reference 2: https://wokwi.com/projects/342590397146464852
+5. Electronic Safe, powered by an Arduino Uno
+  https://wokwi.com/projects/342591577995084371
+6. Arduino LED Graph Bar - Move the potentiometer knob to control the LEDs 
+  https://wokwi.com/projects/342593511849198164
