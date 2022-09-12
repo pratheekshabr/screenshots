@@ -47,7 +47,7 @@ https://wokwi.com/projects/341407482337296980 -RGB<br>
 
 1. Seven segment LED display example: Counter Reference: <br>
 https://wokwi.com/projects/new/arduino-uno<br>
-2. Analog Joystick with two axes (horizontal/vertical) and an integrated push button. Etch-a-sketch - A simple drawing game using a MAX7219 LED Dot Matrix 
+2. Analog Joystick with two axes (horizontal/vertical) and an integrated push button. Etch-a-sketch - A simple drawing game using a MAX7219 LED Dot Matrix <br>
 https://wokwi.com/projects/new/arduino-uno<br>
 3. DHT22 on the ESP32<br>
 https://wokwi.com/projects/342587595343004244<br>
