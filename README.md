@@ -44,3 +44,6 @@ https://wokwi.com/projects/335700972632277587<br>
 esp32
 https://wokwi.com/projects/341407225198150228 -3LED
 https://wokwi.com/projects/341407482337296980 -RGB
+
+sevseg
+https://wokwi.com/projects/new/arduino-uno
